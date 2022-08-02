@@ -1,0 +1,18 @@
+
+  body{
+    background-color: rgba(131, 132, 133, 0.842);
+  }
+
+nav {
+    background-color: rgba(2, 58, 161, 0.719);
+    border-bottom: 2px solid #cbcdce;
+  }
+
+  .jumbotron {
+    background: url(https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80) center center no-repeat;
+    background-size: cover;
+    color: darkblue;
+    text-transform: uppercase;
+    opacity: 0.9;
+    /* min-height: 400px */
+}
